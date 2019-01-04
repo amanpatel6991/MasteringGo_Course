@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de174e04-e2dd-4d6d-8888-4fbf8ed54740" name="Default" comment="" />
+    <list default="true" id="de174e04-e2dd-4d6d-8888-4fbf8ed54740" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/AnonymousFunc.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/Closures.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/InterfaceLearn.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/Prob1.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/StrProb.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/StringerString.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/WebServer2.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/arraySlice.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/arrayVSslices.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/calculateSizeTest.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/concurrencyChannels.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/connectToDbSql.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/consoleInput.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/cookieBasedAuth.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/corsLearn.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/httpClient.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/httpGet.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/jwtAuth.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/middlewareGIN.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/middlewareMux.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/middlewareNegroni.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/miscTest.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/mongoDb.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/pfxRead1.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/profilingLearn.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/redisLearn.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/schedulerLearn.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/sortPkg&amp;Closure.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/staticWebServer.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/useMyPkg.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learning Go 2/waitGroup.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -77,8 +110,8 @@
       <file leaf-file-name="bufferedChannels.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyPkg1/bufferedChannels.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,6 +136,9 @@
       <find>Post</find>
       <find>Read</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -173,6 +209,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -188,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -321,23 +357,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasteringGo_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasteringGo_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyPkg1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -542,21 +565,24 @@
       <workItem from="1546438865910" duration="1166000" />
       <workItem from="1546487030022" duration="13771000" />
       <workItem from="1546572881868" duration="3630000" />
-      <workItem from="1546597501054" duration="42000" />
+      <workItem from="1546597501054" duration="1245000" />
+      <workItem from="1546626076523" duration="55000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154401000" />
+    <option name="totallyTimeSpent" value="155659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18973215" sideWeight="0.4927235" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18973215" sideWeight="0.4927235" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21405229" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25980392" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -929,8 +955,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyPkg1/bufferedChannels.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
