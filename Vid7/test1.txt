@@ -1,0 +1,3 @@
+Hi , this is a test file !
+Hi this is line 2
+line 3 herewritten from bufio writer !!
