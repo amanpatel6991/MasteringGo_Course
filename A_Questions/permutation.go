@@ -22,7 +22,7 @@ func permutation(str string, l int, h int) {
 	for i := l; i <= h; i++ {
 		str = swap(str, l, i)
 		permutation(str, l + 1, h)
-		str = swap(str, l, i)
+		str = swap(str, l, i)                 //backtracking ??
 	}
 
 }
